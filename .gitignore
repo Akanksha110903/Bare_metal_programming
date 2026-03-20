@@ -1,0 +1,24 @@
+# Eclipse
+.metadata/
+
+# Build folders
+build/
+Debug/
+Release/
+
+# Object files
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# VS Code
+.vscode/
