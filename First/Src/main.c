@@ -44,7 +44,7 @@
 
 int main(void)
 {
-	//enable clock access to GPIOA
+	//enable clock access to GPIOD
 	RCC_AHB1EN_R |= GPIODEN ;
 
 	//clean all the bits
