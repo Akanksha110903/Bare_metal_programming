@@ -1,5 +1,7 @@
 # Eclipse
 .metadata/
+* .launch
+
 
 # Build folders
 build/
